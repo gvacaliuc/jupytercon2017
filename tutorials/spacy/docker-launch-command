@@ -1,0 +1,1 @@
+docker run -it --rm -p 8000:8888 -v /home/gvacaliuc/devel/jupytercon2017/tutorials/spacy/jupytercon-2017/:/home/jovyan/jupytercon-2017 jupyter/datascience-notebook start.sh bash
