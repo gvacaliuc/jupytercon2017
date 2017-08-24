@@ -1,0 +1,13 @@
+hub:
+  cookieSecret: "51190ae0ce225c226fa6fcfbc801783ec7d3f71a262a43987d02500f20e01d65"
+proxy:
+  secretToken: "50da7a9675bbccf35a5274528fcd60e09ed8f91fd5fa76a4ce02b9bf065b7fca"
+auth:
+  type: github
+  github:
+    clientId: "31f491d986c9ff11ebb9"
+    clientSecret: "5561dc88b8304e2ceeb4e9cef46f29dad2249c06"
+    callbackUrl: "http://35.188.16.39/hub/oauth_callback"
+#hub:
+  #extraConfig:
+    #c.Authenticator.whitelist = {'gvacaliuc', 'tian000'}
