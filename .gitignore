@@ -1,2 +1,3 @@
 *.ipynb_checkpoints
 *.vagrant
+tutorials/spacy/jupytercon-2017/
